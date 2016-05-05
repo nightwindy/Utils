@@ -4,7 +4,7 @@
 
 #项目结构
     ├─Junit#测试类
-    │  └─com.opslab
+    │  └─com.paladin
     │      │  CharsetTest.java
     │      │  DateUtilTest.java
     │      │  DateUtilThreadSafeTest.java
@@ -28,7 +28,7 @@
     │
     ├─lib#需要的Jar
     └─src
-        └─com.opslab
+        └─com.paladin
             │  CharsetUtil.java     #字符串相关的工具类
             │  ClassUtil.java       #Java Class与反射相关的一些工具类
             │  ChinesUtil.java      #中文相关的工具类
